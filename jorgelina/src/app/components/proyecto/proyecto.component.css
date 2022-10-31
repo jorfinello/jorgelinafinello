@@ -1,0 +1,14 @@
+.row{
+    padding: 20px 
+    ;
+    background-color:black;
+}
+.contenedor{
+    color: aliceblue;
+    width: auto;
+}
+.parte1, .parte2
+{
+    display: inline-block;
+    text-align: justify;
+}
